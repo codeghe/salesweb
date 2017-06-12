@@ -416,3 +416,49 @@ ul,ol , li{
 	text-align: center;
 }
 }
+@media (max-width : 1100px) {
+
+.overlay-text {
+	font-size: 40px;
+}
+.red-hor{
+	width: 50%;
+	top: 25%;
+	height: 25%;
+	margin: 0;
+}
+.red-ver{
+	height: 50%;
+	width: 41%;
+	top: 25%;
+}
+.img1 {
+	width: 60%;
+	top: 5%;
+}
+.img2 {
+	width: 60%;
+	top: 30%;
+}
+.img3 {
+	width: 65%;
+	top: 65%;
+	left: 10%;
+}
+.img4 {
+	width: 50%;
+	top: 50%;
+}
+.text1, .text2, .text3, .text4, .text4a{
+	font-size: 50px;
+}
+.btn{
+	width: 35%;
+}
+.col-sm-4 {
+    width: 100%;
+}
+.col-sm-2 {
+    width: 50%;
+}
+}
